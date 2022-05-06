@@ -1,0 +1,2 @@
+Main-class: ui
+Class-Path: ojdbc8.jar
